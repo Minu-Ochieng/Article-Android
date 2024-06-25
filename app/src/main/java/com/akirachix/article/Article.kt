@@ -9,8 +9,7 @@ data class Article(
     var avator: String,
     var articleAvator: String,
     var publishDate: String,
-    var article: String,
-    var linkToView: String,
+    var article: String
 
 
     )
